@@ -93,6 +93,5 @@ function totalCalculation() {
             finalPrice.innerText = finalCost;
             promoButton.setAttribute('disabled', true);
         }
-        promoButtonClicked();
     });
 };
